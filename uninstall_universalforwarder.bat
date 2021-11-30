@@ -1,0 +1,1 @@
+wmic product where name="UniversalForwarder" call uninstall

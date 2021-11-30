@@ -1,0 +1,1 @@
+﻿get-adcomputer -filter 'operatingsystem -like "*2003*"' -properties operatingsystem | select name, operatingsystem
